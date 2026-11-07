@@ -1,0 +1,10 @@
+﻿{
+	"name": "LaserCycloneTennis",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Allows for Huntress's Laser Cyclone to refund secondary stock if you successfully juggle it",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2122",
+		"RiskofThunder-HookGenPatcher-1.2.9",
+	]
+}
